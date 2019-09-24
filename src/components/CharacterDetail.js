@@ -8,7 +8,6 @@ return(
     <h4>{props.character.species}</h4>
     <h5>{props.character.gender}</h5>
 
-
   </div>
 
 )
